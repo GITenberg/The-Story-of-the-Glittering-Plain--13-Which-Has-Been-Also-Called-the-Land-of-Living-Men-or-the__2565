@@ -1,0 +1,42 @@
+_repo: The-Story-of-the-Glittering-Plain--13-Which-Has-Been-Also-Called-the-Land-of-Living-Men-or-the__2565
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Morris, William
+    alias: Morris, William M.
+    birthdate: 1834
+    deathdate: 1896
+    gutenberg_agent_id: '107'
+    url: http://www.gutenberg.org/2009/agents/107
+    wikipedia: http://en.wikipedia.org/wiki/William_Morris
+description: "The Story of the Glittering Plain (full title: The Story of the Glittering\
+  \ Plain which has been also called the Land of Living Men or the Acre of the Undying)\
+  \ is an 1891 fantasy novel by William Morris, perhaps the first modern fantasy writer\
+  \ to unite an imaginary world with the element of the supernatural, and thus the\
+  \ precursor of much of present-day fantasy literature. It is also important for\
+  \ its exploration of the socialist themes that interested Morris.\nHis earlier fantasies\
+  \ The House of the Wolfings and The Roots of the Mountains were to some degree historical\
+  \ novels. Like these The Story of the Glittering Plain is set in a world similar\
+  \ to the distant past of northern Europe. Morris would go on to develop the new\
+  \ genre established in this work in such later fantasies as Child Christopher and\
+  \ Goldilind the Fair, The Wood Beyond the World, The Well at the World's End, and\
+  \ The Water of the Wondrous Isles.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2001-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2565'
+  wikidata: Q7766837
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fantasy fiction, English'
+- !lcc 'PR'
+- GITenberg
+title: "The Story of the Glittering Plain\r\nWhich Has Been Also Called the Land of\
+  \ Living Men or the Acre of the Undying"
+url: http://www.gutenberg.org/ebooks/2565
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Story_of_the_Glittering_Plain
